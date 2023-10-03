@@ -10,7 +10,7 @@
   "browser": "./dist/texture.js",
   "jsnext:main": "index.js",
   "dependencies": {
-    "debug": "4.1.1",
+    "debug": "4.3.1",
     "fs-extra": "7.0.1",
     "katex": "0.10.0",
     "substance": "1.0.2",
